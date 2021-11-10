@@ -1,5 +1,5 @@
 {
-  "name": "standart-factorial",
+  "name": "factorial-of-numbers",
   "version": "1.0.1-alpha",
   "description": "Calculates the factorial",
   "main": "factorial.js",
