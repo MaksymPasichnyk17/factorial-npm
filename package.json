@@ -1,0 +1,24 @@
+{
+  "name": "standart-factorial",
+  "version": "1.0.1-alpha",
+  "description": "Calculates the factorial",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymPasichnyk17/factorial-npm.git"
+  },
+  "author": "https://github.com/MaksymPasichnyk17/factorial-npm.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaksymPasichnyk17/factorial-npm/issues"
+  },
+  "homepage": "https://github.com/MaksymPasichnyk17/factorial-npm#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
