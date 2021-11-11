@@ -10,4 +10,4 @@ Factorial of a whole number 'n' is defined as the product of that number with ev
 
 ## Installation  
 
-    npm i standart-factorial
+    npm i factorial-of-numbers
